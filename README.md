@@ -1,10 +1,10 @@
 # ATM Machine
 
-##Overview
+## Overview
 The ATM System is a Java-based application designed to simulate the basic functionalities of an ATM machine. This system allows users to 
 sign up, log in, deposit, withdraw, transfer funds, and change their PINs. The backend of the application is powered by a MySQL database.
 
-##Features
+## Features
 - User Registration: New users can sign up by providing their details.
 - User Login: Existing users can log in using their username and PIN.
 - Deposit Funds: Users can deposit predefined amounts into their account.
@@ -14,7 +14,7 @@ sign up, log in, deposit, withdraw, transfer funds, and change their PINs. The b
 - Balance Inquiry: Users can view their current balance.
 
 
-##Prerequisites
+## Prerequisites
 - Java Development Kit (JDK) 8 or higher
 - MySQL Database
 - IDE such as NetBeans, Eclipse, or IntelliJ IDEA
